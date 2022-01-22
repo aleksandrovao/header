@@ -1,3 +1,4 @@
+// эти настройки взяты для примера и есть в сборке gulp
 (function(){
   const burger = document?.querySelector('[data-burger]');
   const menu = document?.querySelector('[data-menu]');
@@ -8,7 +9,7 @@
   });
 })();
 
-
+//эти настройки нужно скопировать
 
 let burger = document.querySelector('.burger');
 burger.addEventListener('click', function(){
